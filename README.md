@@ -1,5 +1,38 @@
-# ashish.folio
-My Portfolio built using HTML, CSS, and JavaScript.
-Hi, I’m Ashish Sahani — a passionate Full-Stack Developer who loves crafting modern, user-friendly, and high-performance web applications. I specialize in turning ideas into interactive digital experiences using clean code, responsive design, and buttery-smooth UI/UX. My portfolio highlights projects built with HTML, CSS, JavaScript, and full-stack technologies, showcasing not just my technical skills but also my creativity and eye for detail.
+# 🚀 Ashish Sahani — Full-Stack Developer Portfolio
 
-I believe in building applications that are scalable, visually stunning, and optimized for speed — whether it’s a startup website, a personal portfolio, or a complex web application. I’m constantly learning, experimenting, and pushing my limits to deliver the best solutions for real-world problems.
+Welcome to my professional portfolio website built using **HTML, CSS, and JavaScript**.  
+This project showcases my skills, projects, and journey as a developer in a **buttery-smooth UI/UX**.
+
+---
+
+## 🌟 Features
+- Responsive Design (Mobile, Tablet & Desktop Friendly)
+- Smooth Animations & Transitions
+- Optimized Images for Fast Loading
+- Projects Section with Professional Layout
+- Modern Color Palette & Typography
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML5, CSS3 (Flexbox, Grid, Animations), JavaScript (ES6+)
+- **Design:** Figma, Adobe XD, Photoshop
+- **Version Control:** Git & GitHub
+
+---
+
+## 📸 Preview
+![Portfolio Screenshot](assets/preview.webp)
+
+---
+
+## 🚀 Deployment
+Live Site: [https://ashish-portfolio.vercel.app](https://ashish-portfolio.vercel.app)  
+GitHub Repo: [https://github.com/<your-username>/portfolio-pro](https://github.com/<your-username>/portfolio-pro)
+
+---
+
+## 📬 Contact
+- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/ashish-sahani](https://linkedin.com/in/ashish-sahani)
+- GitHub: [github.com/<jhunusahani>](https://github.com/<jhinu-sahani>)
