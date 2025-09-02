@@ -33,6 +33,6 @@ GitHub Repo: [https://github.com/<your-username>/portfolio-pro](https://github.c
 ---
 
 ## 📬 Contact
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/ashish-sahani](https://linkedin.com/in/ashish-sahani)
+- Email: jhinusahani66@gmail.com
+- LinkedIn: www.linkedin.com/in/ashish-sahani-761432380
 - GitHub: [github.com/<jhunusahani>](https://github.com/<jhinu-sahani>)
