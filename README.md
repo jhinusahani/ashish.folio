@@ -28,7 +28,7 @@ http://127.0.0.1:5500/ashish.html
 
 ## 🚀 Deployment
 Live Site: [https://ashish-portfolio.vercel.app](https://ashish-portfolio.vercel.app)  
-GitHub Repo: [https://github.com/<your-username>/portfolio-pro](https://github.com/<your-username>/portfolio-pro)
+GitHub Repo: [https://github.com/<jhinusahani>/portfolio-pro](https://github.com/<jhinusahani>/portfolio-pro)
 
 ---
 
