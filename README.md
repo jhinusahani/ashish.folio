@@ -35,4 +35,4 @@ GitHub Repo: [https://github.com/<jhinusahani>/portfolio-pro](https://github.com
 ## 📬 Contact
 - Email: jhinusahani66@gmail.com
 - LinkedIn: www.linkedin.com/in/ashish-sahani-761432380
-- GitHub: [github.com/<jhunusahani>](https://github.com/<jhinu-sahani>)
+- GitHub:https://github.com/jhinusahani
