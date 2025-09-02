@@ -22,7 +22,7 @@ This project showcases my skills, projects, and journey as a developer in a **bu
 ---
 
 ## 📸 Preview
-![Portfolio Screenshot](assets/preview.webp)
+"C:\Users\Asus\Downloads\Ashish Sahani — Full-Stack Developer.html"
 
 ---
 
